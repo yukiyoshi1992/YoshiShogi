@@ -27,7 +27,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, written by
         {` `}
-        <a href="https://twitter.com/yoshi19920305">Yoshi</a>
+        <a href="https://twitter.com/unknown">Yoshi</a>
       </footer>
     </div>
   )
