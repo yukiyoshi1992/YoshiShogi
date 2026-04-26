@@ -1,7 +1,7 @@
 ---
 title: 概要はこちら
 date: "3000-01-01"
-description: "概要"
+description: "活動内容と留意事項"
 ---
 
 ## 紹介
