@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `よしぶろぐ`,
+    title: `よし将棋`,
     author: {
       name: `Yoshi`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
-    description: `Yoshiのブログです。`,
+    description: `Yoshiの将棋です。`,
     siteUrl: `https://vibrant-curie-cac7f6.netlify.app/`,
     social: {
       twitter: `yoshi19920305`,
