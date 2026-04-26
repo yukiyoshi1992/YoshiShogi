@@ -5,8 +5,8 @@ module.exports = {
       name: `Yoshi`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
-    description: `Yoshiの将棋です。`,
-    siteUrl: `https://vibrant-curie-cac7f6.netlify.app/`,
+    description: `Yoshiの将棋`,
+    siteUrl: `https://yoshishogi.netlify.app/`,
     social: {
       twitter: `yoshi19920305`,
     },
